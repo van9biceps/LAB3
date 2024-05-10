@@ -4,11 +4,11 @@ public class TestHelloWorld {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("  Hello World ...!\n This is a demo....");
+		System.out.println("Hello world!");
 	}
 
 	@Test
 	public void testrunTest() {
-		System.out.println(" ... This is a test ...");
+		System.out.println("Тест успешно пройден");
 	}
 }
